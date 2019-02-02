@@ -201,16 +201,15 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 {
     position: absolute;
 	top: 240px;
-	right: -10px;
-    width: 96.66666666666666%;
+	right: -350px;
+    width: 150%;
 	color: rgb(22, 52, 83);
 	font-family: 'Casteller';
 	background: url(klematis.jpg) repeat;
 	margin: 30px;
   	background-color: #eaeef0;
-	border: 1px solid rgb(82, 54, 247);
 	border-bottom: 20;
-  	opacity: 0.6;
+  	opacity: 0.9;
   	filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 
