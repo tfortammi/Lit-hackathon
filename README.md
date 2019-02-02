@@ -1,1 +1,1 @@
-# Lit-hackathon
+# LIT Hackathon 2019
